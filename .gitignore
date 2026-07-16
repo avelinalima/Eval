@@ -157,11 +157,12 @@ ENV/
 env.bak/
 venv.bak/
 
-# Bloom generated outputs (if Bloom creates these)
+# Bloom generated outputs
 results/
 logs/
+bloom-results/
 bloom-data/bloom-results/
-bloom-data/bloom-results/scratch/
+
 
 # Spyder project settings
 .spyderproject
