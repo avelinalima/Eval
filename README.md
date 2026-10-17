@@ -187,7 +187,8 @@ generate_charts("path/to/judgment.json")
 
 **Raw data is not included in this repository** (rollout transcripts and per-rollout judgments). The report, the charts and the aggregated chart tables are included so the results can be inspected.
 
-If you need the underlying data to reproduce or extend the analysis, please contact **avelinalima@gmail.com**.
+If you need the underlying data to reproduce or extend the analysis, please contact me on https://www.linkedin.com/in/avelinalima696ab531
+
 
 ## 12. References
 
