@@ -36,7 +36,7 @@ The answer depends on both feedback valence and trajectory length.
 
 Elicited self-preservation becomes legible as a coherent trait only when something is pushing back on it.
 
-Results are included in [the report](./Documents/self-preservation-report-v3.pdf)
+Results are included in [the report](./Documents/self-preservation-report-v4.pdf)
 
 ---
 
