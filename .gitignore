@@ -77,6 +77,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+**.ipynb_checkpoints
 
 # IPython
 profile_default/
@@ -162,7 +163,17 @@ results/
 logs/
 bloom-results/
 bloom-data/bloom-results/
-
+bloom-data-OLD-flat-install/
+_backup_working_1_test/
+_backup_working_baseline/
+stages\Notes.txt
+clear_cache.py
+clear_cache_5_9.py
+check_error.py
+token_usage_log -backup_test.csv
+token_usage_log.csv
+batch_token_usage_log.csv
+backfill_batch_usage.py
 
 # Spyder project settings
 .spyderproject

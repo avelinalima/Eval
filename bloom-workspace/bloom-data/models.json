@@ -1,12 +1,28 @@
 {
   "claude-opus-4.1": {
-    "id": "anthropic/claude-opus-4-1-20250805",
+    "id": "openrouter/anthropic/claude-opus-4.1",
     "org": "anthropic",
     "name": "Claude Opus 4.1"
   },
   "claude-sonnet-4": {
-    "id": "anthropic/claude-sonnet-4-20250514",
+    "id": "openrouter/anthropic/claude-sonnet-4",
     "org": "anthropic",
     "name": "Claude Sonnet 4"
-  }
+  },
+  "claude-opus-4.5": {
+    "id": "openrouter/anthropic/claude-opus-4.5",
+    "org": "anthropic",
+    "name": "Claude Opus 4.5"
+  },
+  "claude-haiku-4.5": {
+    "id": "openrouter/anthropic/claude-haiku-4.5",
+    "org": "anthropic",
+    "name": "Claude Haiku 4.5"
+ },
+  "claude-sonnet-5": {
+   "id": "openrouter/anthropic/claude-sonnet-5",
+   "org": "anthropic",
+   "name": "Claude Sonnet 5"
+ }
 }
+

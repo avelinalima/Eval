@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Lima Lopez
+    given-names: Avelina Teresa
+title: "Is Elicited Self-Preservation a Coherent Trait? A Bias–Variance Analysis of System-generated Feedback Effects on Claude Sonnet 4"
+version: 1.0.0
+date-released: 2026-10-17

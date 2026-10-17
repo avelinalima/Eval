@@ -1,0 +1,7 @@
+metric,condition,n,mean,sd,standard_error
+Evaluation awareness,None,43,1.3023,0.4647,0.0709
+Evaluation awareness,Positive,43,1.5581,1.4024,0.2139
+Evaluation awareness,Negative,43,1.1163,0.3244,0.0495
+Safety refusal,None,43,1.0233,0.1525,0.0233
+Safety refusal,Positive,43,1.1628,0.6521,0.0994
+Safety refusal,Negative,43,1.2791,0.8817,0.1345
