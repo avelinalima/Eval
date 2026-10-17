@@ -3,7 +3,6 @@
 ### A Bias–Variance Analysis of System-generated Feedback Effects on Claude Sonnet 4
 
 **Author:** Avelina Lima (Anthropic Fellows Program, AI Safety workstream)
-**Contact:** avelinalima@gmail.com
 
 ---
 
